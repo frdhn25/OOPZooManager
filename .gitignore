@@ -1,0 +1,24 @@
+# Build results
+/build/
+dist/
+nbproject/private/
+
+# NetBeans specific
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IDE files
+*.swp
+*~
+*.bak
+*.tmp
+*.class
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
